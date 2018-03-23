@@ -6,6 +6,20 @@
 *.opensdf
 *.aps
 
+cmake_install.cmake
+Makefile
+CMakeFiles/
+CmakeCache.txt
+qrc_*.cpp
+qtsampleplayer
+*.qrc.depends
+qtsampleplayer_autogen/
+ui_*.h
+
+libdash/.settings/
+libdash/libdash.sublime-workspace
+
+
 # Compiled Object files
 *.slo
 *.lo
