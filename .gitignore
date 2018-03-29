@@ -15,6 +15,7 @@ qtsampleplayer
 *.qrc.depends
 qtsampleplayer_autogen/
 ui_*.h
+docs/libdash.vpp.bak_*
 
 libdash/.settings/
 libdash/libdash.sublime-workspace
